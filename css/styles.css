@@ -1,0 +1,31 @@
+<style>
+/*
+	body {
+		background-color: #EDEDED;
+	}
+	
+*/
+
+	body {
+		background-color: #FF8787;
+	}
+
+	hr {
+		border-style: none;
+		border-top-style: dotted;
+		border-color: gray;
+		/* border-radius: 10px; */
+		border-height: 0px;
+		border-width: 5px;
+		width: 5%;			
+	}
+	
+	h1, h3 {
+		color: #66bfbf
+	}
+	
+	img.Graham {
+		border-radius: 100px;
+	}
+	
+</style>
